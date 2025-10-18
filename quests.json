@@ -65,9 +65,16 @@
     "id": "m8",
     "name": "Safe Passage",
     "trader": "Apollo",
-    "objectives": ["Destroy a Turret using Light Impact Grenades"],
-    "rewardItemIds": [{ "itemId": "snap_grenade", "quantity": 2 }],
-    "xp": 7000
+    "objectives": ["Destroy 2 ARC enemies using any explosive grenade"],
+    "grantedItemIds": [
+      {"itemId": "light_impact_grenade", "quantity": 5},
+      {"itemId": "snap_blast_grenade", "quantity": 3}
+    ],
+    "rewardItemIds": [
+      { "itemId": "cans", "quantity": 1 },
+      {"itemId": "junior", "quantity": 1},
+      {"itemId": "shrapnel_grenade", "quantity": 3}
+    ]
   },
   {
     "id": "m9",
