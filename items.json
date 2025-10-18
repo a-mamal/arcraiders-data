@@ -1211,5 +1211,18 @@
     "name": "Tempest I",
     "description": "A Tier 1 Tempest weapon.",
     "type": "Weapon"
+  },
+  {
+    "id": "remote_raider_flare",
+    "name": "Remote Raider Flare",
+    "description": "A deployable device that, when manually triggered, launches a Raider Distress Flare.",
+    "type": "Quick Use",
+    "rarity": "Common"
+  },
+  {
+    "id": "black_hiker_color_backpack",
+    "name": "Black (Hiker Color)",
+    "description": "A new cosmetic variant will be added to your collection",
+    "type": "Cosmetic"
   }
 ]
