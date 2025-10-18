@@ -998,10 +998,10 @@
     "name": "Medium Shield",
     "type": "Shield",
     "rarity": "Rare",
-    "description": "A standard shield that offers fair protection at a moderate cost to mobility.",
+    "description": "A standard shield that blocks a medium portion of incoming damage at a moderate cost to mobility.",
     "durability": 100,
-    "shieldCharge": 80,
-    "damageMitigation": 45,
+    "shieldCharge": 70,
+    "damageMitigation": 42.5,
     "movementSpeedModifier": -5,
     "weight": 7,
     "value": 2000,
@@ -1224,5 +1224,35 @@
     "name": "Black (Hiker Color)",
     "description": "A new cosmetic variant will be added to your collection",
     "type": "Cosmetic"
+  },
+  {
+    "id": "stitcher_ii",
+    "name": "STITCHER II",
+    "description": "Deals good damage, but has quite low fire-rate and can be hard to control",
+    "type": "Weapon",
+    "rarity": "Common"
+  },
+  {
+    "id": "extended_light_mag_i",
+    "name": "Extended Light Mag I",
+    "description": "Slightly extends the ammo capacity of compatible weapons that use light ammo",
+    "type": "Weapon Mod",
+    "rarity": "Common",
+    "compatibleWith": ["Kettle", "Hairpin", "Stitcher", "Burletta", "Bobcat"]
+  },
+  {
+    "id": "combat_mk_i",
+    "name": "Combat Mk.1",
+    "description": "Basic combat augment. Supports stronger shields, but with limited backpack capacity and Quick Use slots.",
+    "type": "Augment",
+    "rarity": "Uncommon",
+    "backpackSlots": 16,
+    "weightLimitKg": 45,
+    "weaponSlots": 2,
+    "quickUseSlots": 4,
+    "safePocketSlots": 1,
+    "shieldCompatibility": ["Light", "Medium"],
+    "crafting": {},
+    "imageFilename": ""
   }
 ]

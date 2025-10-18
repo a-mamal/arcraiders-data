@@ -503,5 +503,31 @@
     "objectives": ["Visit a Field Depot", "Repair the antenna on the roof of the Field Depot"],
     "grantedItemIds": [{"itemId": "remote_raider_flare", "quantity": 2}],
     "rewardItemIds": [{"itemId": "black_hiker_color_backpack", "quantity": 1}]
+  },
+  {
+    "id": "m48",
+    "name": "The Right Tool",
+    "trader": "Tian Wen",
+    "objectives": ["Destroy a Fireball", "Destroy a Hornet", "Destroy a Turret"],
+    "grantedItemIds": [
+      {"itemId": "ferro_iv", "quantity:": 1}, 
+      {"itemId": "heavy_ammo", "quantity": 20}
+    ],
+    "rewardItemIds": [
+      {"itemId": "stitcher_ii", "quantity": 1},
+      {"itemId": "extended_light_mag_i", "quantity": 1}
+    ]
+  },
+  {
+    "id": "m49",
+    "name": "Down To Earth",
+    "trader": "Shani",
+    "objectives": ["Visit a Field Depot", "Deliver a Field Crate to a Supply Station", "Collect the reward"],
+    "roundScoped": true,
+    "grantedItemIds": [{"itemId": "binoculars", "quantity": 1}],
+    "rewardItemIds": [
+      {"itemId": "combat_mk_i", "quantity": 1},
+      {"itemId": "medium_shield", "quantity": 1}
+    ]
   }
 ]
