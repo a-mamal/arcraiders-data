@@ -10,6 +10,41 @@
     "imageFilename": "https://cdn.arctracker.io/items/fabric.png"
   },
   {
+    "id": "metal_parts",
+    "name": "Metal Parts",
+    "description": "Used to craft a wide range of items.",
+    "type": "Basic Material",
+    "rarity": "Common",
+    "weightKg": 0.15,
+    "value": 75,
+    "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png"
+  },
+  {
+    "id": "plastic_parts",
+    "name": "Plastic Parts",
+    "description": "Used to craft a wide range of items.",
+    "type": "Basic Material",
+    "rarity": "Common",
+    "value": 60,
+    "weightKg": 0.15,
+    "imageFilename": "https://cdn.arctracker.io/items/plastic_parts.png"
+  },
+  {
+    "id": "chemicals",
+    "name": "Chemicals",
+    "description": "Used to craft medical supplies, explosives, and utility items.",
+    "type": "Basic Material",
+    "rarity": "Common",
+    "value": 50,
+    "weightKg": 0.15,
+    "imageFilename": "https://cdn.arctracker.io/items/power_rod.png"
+  },
+
+
+
+
+
+  {
     "id": "tick_pod",
     "name": "Tick Pod",
     "description": "The explosive pod from a Tick.",
@@ -47,16 +82,7 @@
     "description": "A sweet, orange fruit.",
     "type": "Consumable"
   },
-  {
-    "id": "metal_parts",
-    "name": "Metal Parts",
-    "description": "Used to craft a wide range of items.",
-    "type": "Basic Material",
-    "rarity": "Common",
-    "weightKg": 0.15,
-    "value": 75,
-    "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png"
-  },
+
   {
     "id": "rubber_parts",
     "name": "Rubber Parts",
@@ -67,16 +93,7 @@
     "value": 50,
     "imageFilename": "https://cdn.arctracker.io/items/rubber_parts.png"
   },
-  {
-    "id": "plastic_parts",
-    "name": "Plastic Parts",
-    "description": "Used to craft a wide range of items.",
-    "type": "Basic Material",
-    "rarity": "Common",
-    "value": 60,
-    "weightKg": 0.15,
-    "imageFilename": "https://cdn.arctracker.io/items/plastic_parts.png"
-  },
+
   {
     "id": "voltage_converter",
     "name": "Voltage Converter",
@@ -850,16 +867,6 @@
     "description": "Components salvaged from medium firearms, used in weapon crafting.",
     "type": "Material",
     "imageFilename": "https://cdn.arctracker.io/items/medium_gun_parts.png"
-  },
-  {
-    "id": "chemicals",
-    "name": "Chemicals",
-    "description": "Used to craft medical supplies, explosives, and utility items.",
-    "type": "Basic Material",
-    "rarity": "Common",
-    "value": 50,
-    "weightKg": 0.15,
-    "imageFilename": "https://cdn.arctracker.io/items/power_rod.png"
   },
   {
     "id": "great_mullein",
