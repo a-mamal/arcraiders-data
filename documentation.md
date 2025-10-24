@@ -8,6 +8,7 @@ Welcome! This document is intended to help contributors understand the structure
 ## Table of Contents
 1. [Overview](#overview)
 2. [Files & Folders](#files--folders)
+3. [Items](#items)
 
 
 ---
@@ -34,9 +35,44 @@ The goal of this documentation is to make it easier for contributors to **add, e
 
 ---
 
+## Items
+
+The `items.json` file contains all in-game items.
+Bellow we will see them as types.
+
+### Types
+Bellow are all item types:
+
+| `type`                | description                               |
+|-----------------------|-------------------------------------------|
+| `Material`            |                                           |
+| `Quest Item`          |                                           |
+| `Consumable`          |                                           |
+| `Weapon`              |                                           |
+| `Ammo`                |                                           |
+| `Gear`                |                                           |
+| `Assault Rifle`       |                                           |
+| `Misc`                |                                           |
+| `Augment`             |                                           |
+| `Advanced Material`   |                                           |
+| `Pistol`              |                                           |
+| `Shotgun`             |                                           |
+| `Hand Cannon`         |                                           |
+| `Basic Material`      |                                           |
+| `Valuable`            |                                           |
+| `Key`                 |                                           |
+| `Shield`              |                                           |
+| `Quick Use`           |                                           |
+| `Recyclable`          |                                           |
+| `Recipe`              |                                           |
+| `Weapon Mod`          |                                           |
+
+
+---
+
 ## Notes
 - This documentation is **a living file** and should grow as the repository evolves.
-- Consider adding any **new fields or conventions** you introduce.
+- Consider adding any **new fields or conventions** you introduce to help everyone with contributing.
 - Aim for **clarity and consistency**.
 
 Happy contributing!
