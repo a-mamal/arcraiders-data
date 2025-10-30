@@ -1239,5 +1239,13 @@
     "rarity": "Rare",
     "weightKg": 2.0,
     "value": 640
+  },
+  {
+    "id": "headphones",
+    "name": "Headphones",
+    "type": "Recyclable",
+    "rarity":"Rare",
+    "weightKg": 2.0,
+    "value": 1000
   }
 ]
