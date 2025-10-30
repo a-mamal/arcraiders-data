@@ -1247,5 +1247,13 @@
     "rarity":"Rare",
     "weightKg": 2.0,
     "value": 1000
+  },
+  {
+   "id": "humidifier",
+   "name": "Humidifier",
+   "type": "Recyclable",
+   "rarity": "Rare",
+   "weightKg": 2.0,
+   "value": 1000 
   }
 ]
