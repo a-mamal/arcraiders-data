@@ -1211,5 +1211,14 @@
     "name": "Tempest I",
     "description": "A Tier 1 Tempest weapon.",
     "type": "Weapon"
+  },
+  {
+    "id": "alarm_clock",
+    "name": "Alarm Clock",
+    "dexcription": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity":"Rare",
+    "weightKg": 4.0,
+    "value": 2000
   }
 ]
