@@ -1231,5 +1231,13 @@
     "rarity": "Rare",
     "weightKg": 4.0,
     "value": 2000
+  },
+  {
+    "id": "frying_pan",
+    "name": "Frying Pan",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "weightKg": 2.0,
+    "value": 640
   }
 ]
