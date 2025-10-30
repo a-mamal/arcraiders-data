@@ -1218,7 +1218,7 @@
   {
     "id": "alarm_clock",
     "name": "Alarm Clock",
-    "dexcription": "Can be recycled into crafting materials.",
+    "description": "Can be recycled into crafting materials.",
     "type": "Recyclable",
     "rarity":"Rare",
     "weightKg": 4.0,
@@ -1251,6 +1251,7 @@
   {
    "id": "humidifier",
    "name": "Humidifier",
+   "description": "Can be recycled into crafting materials.",
    "type": "Recyclable",
    "rarity": "Rare",
    "weightKg": 2.0,
