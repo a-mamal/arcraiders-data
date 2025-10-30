@@ -1223,5 +1223,13 @@
     "rarity":"Rare",
     "weightKg": 4.0,
     "value": 2000
+  },
+  {
+    "id": "broken_flashlight",
+    "name": "Broken Flashlight",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "weightKg": 4.0,
+    "value": 2000
   }
 ]
