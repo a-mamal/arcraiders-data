@@ -1195,6 +1195,15 @@
     "radiusM": 7.5
   },
   {
+    "id": "smoke_grenade",
+    "name": "Smoke Grenade",
+    "description": "A grenade that creates a lingering smoke cloud on impact, blocking visibility from ARC and other Raiders.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "weightKg": 0.2,
+    "value": 1000
+  },
+  {
     "id": "showstopper",
     "name": "Showstopper",
     "description": "Unknown",
