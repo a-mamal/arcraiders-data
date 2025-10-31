@@ -419,8 +419,11 @@
   {
     "id": "faded_photograph",
     "name": "Faded Photograph",
-    "description": "An old, faded photograph.",
-    "type": "Misc"
+    "description": "A snapshot of the world before, faded by sunlight and time.",
+    "type": "Trinket",
+    "rarity": "Common",
+    "weightKg": 0.3,
+    "value": 640
   },
   {
     "id": "arc_powercell",
