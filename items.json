@@ -1278,8 +1278,13 @@
   {
     "id": "vita_shot",
     "name": "Vita Shot",
-    "description": "A medical stimulant.",
-    "type": "Consumable"
+    "description": "A medical item that restores a large amount of health.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "weightKg": 0.4,
+    "value": 2000,
+    "healing": 50,
+    "useTimeSec": 4
   },
   {
     "id": "vita_spray",
