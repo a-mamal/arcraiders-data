@@ -29,8 +29,11 @@
   {
     "id": "torn_blanket",
     "name": "Torn Blanket",
-    "description": "A tattered piece of cloth.",
-    "type": "Material"
+    "description": "Can be recycled into fabric.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "weightKg": 4.0,
+    "value": 1280
   },
   {
     "id": "lemon",
