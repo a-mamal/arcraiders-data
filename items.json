@@ -523,8 +523,13 @@
   {
     "id": "light_impact_grenade",
     "name": "Light Impact Grenade",
-    "description": "A small grenade designed for light impact and crowd control.",
-    "type": "Misc"
+    "description": "A grenade that detonates on impact, dealing explosive damage in a small radius.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "weightKg": 0.1,
+    "value": 270,
+    "damage": 30,
+    "radiusM": 2.5
   },
   {
     "id": "oil",
