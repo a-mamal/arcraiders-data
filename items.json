@@ -1210,8 +1210,11 @@
   {
     "id": "binoculars",
     "name": "Binoculars",
-    "description": "Optical instrument for viewing distant objects.",
-    "type": "Gear"
+    "description": "A basic pair of binoculars with two levels of magnification.",
+    "type": "Quick Use",
+    "rarity": "Uncommon",
+    "weightKg": 0.5,
+    "value": 640
   },
   {
     "id": "silencer_i",
