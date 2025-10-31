@@ -816,8 +816,11 @@
   {
     "id": "power_cable",
     "name": "Power Cable",
-    "description": "A heavy-duty cable used for transmitting electrical power.",
-    "type": "Material",
+    "description": "Can be recycled into crafting materials.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "weightKg": 2.0,
+    "value": 1000,
     "imageFilename": "https://cdn.arctracker.io/items/power_cable.png"
   },
   {
