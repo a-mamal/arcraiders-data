@@ -1204,6 +1204,17 @@
     "value": 1000
   },
   {
+    "id": "tagging_grenade",
+    "name": "Tagging Greenade",
+    "description": "A grenade that detonates after a delay, tagging Raiders and ARC enemies in an area, allowing you to briefly track their location.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "weightKg": 0.4,
+    "value": 1000,
+    "durationSec": 30,
+    "radiusM": 6
+  },
+  {
     "id": "showstopper",
     "name": "Showstopper",
     "description": "Unknown",
