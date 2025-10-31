@@ -968,9 +968,13 @@
   {
     "id": "bloated_tuna_can",
     "name": "Bloated Tuna Can",
-    "description": "A can of tuna, suspiciously bloated.",
-    "type": "Valuable",
-    "value": 1000
+    "description": "Something tells you that you don't want to open this... Can (reluctantly) be consumed to restore small amounts of stamina.",
+    "type": "Trinket",
+    "rarity": "Common",
+    "weightKg": 0.2,
+    "value": 1000,
+    "stamina": 25,
+    "useTimeSec": 1
   },
   {
     "id": "coffee_pot",
