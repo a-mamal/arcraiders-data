@@ -427,8 +427,11 @@
   {
     "id": "deflated_football",
     "name": "Deflated Football",
-    "description": "A worn, deflated football. Needs air but still has sentimental value.",
-    "type": "Misc"
+    "description": "Just by looking at this, you too start to feel slightly deflated.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "weightKg": 0.8,
+    "value": 1000
   },
   {
     "id": "duct_tape",
