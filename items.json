@@ -1259,5 +1259,14 @@
    "rarity": "Rare",
    "weightKg": 2.0,
    "value": 1000 
+  },
+  {
+    "id": "processor",
+    "name": "Processor",
+    "description": "Used in crafting.",
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "weightKg": 0.4,
+    "value": 1000 
   }
 ]
