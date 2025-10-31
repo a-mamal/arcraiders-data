@@ -1325,8 +1325,12 @@
   {
     "id": "barricade_kit",
     "name": "Barricade Kit",
-    "description": "A kit to deploy a temporary barricade.",
-    "type": "Gear"
+    "description": "A deployable cover that can block incoming damage until it breaks.",
+    "type": "Quick Use",
+    "rarity": "Uncommon",
+    "weightKg": 0.4,
+    "value": 640,
+    "health": 500
   },
   {
     "id": "defibrillator",
