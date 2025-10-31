@@ -1347,5 +1347,14 @@
     "rarity": "Uncommon",
     "weightKg": 0.5,
     "value": 1280
+  },
+  {
+    "id": "ice_cream_scooper",
+    "name": "Ice Cream Scooper",
+    "description": "It is theorized that scooping things was a favorite pastime in the world before.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "weightKg": 0.8,
+    "value": 640
   }
 ]
