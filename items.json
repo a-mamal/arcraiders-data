@@ -184,8 +184,14 @@
   {
     "id": "fireball_burner",
     "name": "Fireball Burner",
-    "description": "A burner module from a Fireball unit.",
-    "type": "Material",
+    "description": "Can be recycled into ARC Alloy. Can be thrown to create small fires.",
+    "type": "Recyclable",
+    "rarity": "Uncommon",
+    "weightKg": 1.5,
+    "value": 1920,
+    "damagePerSec": 5,
+    "durationSec": 10,
+    "radiusM": 2,
     "imageFilename": "https://cdn.arctracker.io/items/fireball_burner.png"
   },
   {
