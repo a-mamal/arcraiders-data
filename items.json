@@ -1320,5 +1320,14 @@
     "rarity": "Rare",
     "weightKg": 0.3,
     "value": 500
+  },
+  {
+    "id": "durable_cloth",
+    "name": "Durable Cloth",
+    "description": "Used to craft medical supplies.",
+    "type": "Refined Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.5,
+    "value": 1280
   }
 ]
