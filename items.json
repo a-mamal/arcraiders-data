@@ -415,8 +415,14 @@
   {
     "id": "arc_powercell",
     "name": "ARC Powercell",
-    "description": "A powerful energy cell used in ARC technology.",
-    "type": "Misc"
+    "description": "Valuable resource that drops from all ARC enemies. Can be used to repair shields.",
+    "type": "Topside Material",
+    "rarity": "Common",
+    "weightKg": 2.5,
+    "value": 3200,
+    "rechargePerSec": 2,
+    "durationSec": 10,
+    "useTimeSec": 3
   },
   {
     "id": "water_filter",
