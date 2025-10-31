@@ -1268,5 +1268,14 @@
     "rarity": "Rare",
     "weightKg": 0.4,
     "value": 1000 
+  },
+  {
+    "id": "speaker_component",
+    "name": "Speaker Component",
+    "description": "Used in crafting.",
+    "type": "Topside Material",
+    "rarity": "Rare",
+    "weightKg": 0.3,
+    "value": 500
   }
 ]
