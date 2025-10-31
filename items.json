@@ -1186,8 +1186,13 @@
   {
     "id": "heavy_fuse_grenade",
     "name": "Heavy Fuse Grenade",
-    "description": "A powerful explosive with a timed fuse.",
-    "type": "Gear"
+    "description": "A grenade that detonates after a delay, dealing explosive damage in its radius.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "weightKg": 0.2,
+    "value": 1600,
+    "damage": 80,
+    "radiusM": 7.5
   },
   {
     "id": "showstopper",
