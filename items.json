@@ -1490,5 +1490,17 @@
     "rarity": "Common",
     "weightKg": 0.05,
     "value": 100
+  },
+  {
+    "id": "shield_recharger",
+    "name": "Shield Recharger",
+    "description": "A handheld kit that gradually recharges shield over time",
+    "type": "Quick Use",
+    "rarity": "Uncommon",
+    "weightKg": 0.15,
+    "value": 520,
+    "rechargePerSec": 4,
+    "durationSec": 40,
+    "useTimeSec": 2
   }
-]
+]  
