@@ -253,8 +253,11 @@
   {
     "id": "arc_alloy",
     "name": "ARC Alloy",
-    "description": "Specialized alloys from ARC technology.",
-    "type": "Material",
+    "description": "Obtained from ARC enemies or activities, or by recycling certain ARC parts. Used to craft components.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "value": 200,
     "imageFilename": "https://cdn.arctracker.io/items/arc_alloy.png"
   },
   {
