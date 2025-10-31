@@ -31,9 +31,7 @@
     "name": "Torn Blanket",
     "description": "Can be recycled into fabric.",
     "type": "Recyclable",
-    "rarity": "Rare",
-    "weightKg": 4.0,
-    "value": 1280
+    "rarity": "Rare"
   },
   {
     "id": "lemon",
@@ -119,8 +117,8 @@
     "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "weightKg": 2.0,
-    "value": 1600,
+    "weightKg": 0.25,
+    "value": 200,
     "imageFilename": "https://cdn.arctracker.io/items/wires.png"
   },
   {
@@ -150,8 +148,8 @@
     "description": "Can be recycled into ARC Alloy. Can be thrown, and will explode if shot.",
     "type": "Recyclable",
     "rarity": "Rare",
-    "weightKg": 1.2,
-    "value": 2000,
+    "weightKg": 0.6,
+    "value": 1000,
     "damage": 80,
     "radiusM": 5,
     "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png"
@@ -190,8 +188,8 @@
     "description": "Can be recycled into ARC Alloy. Can be thrown to create small fires.",
     "type": "Recyclable",
     "rarity": "Uncommon",
-    "weightKg": 1.5,
-    "value": 1920,
+    "weightKg": 0.5,
+    "value": 640,
     "damagePerSec": 5,
     "durationSec": 10,
     "radiusM": 2,
@@ -210,8 +208,8 @@
     "description": "Used to craft medical supplies.",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "weightKg": 1.0,
-    "value": 1200
+    "weightKg": 0.25,
+    "value": 300
   },
   {
     "id": "syringe",
@@ -229,8 +227,8 @@
     "description": "Used to craft medical supplies. Can be recycled into chemicals.",
     "type": "Refined Material",
     "rarity":"Rare",
-    "weightKg": 2.0,
-    "value": 2000,
+    "weightKg": 1.0,
+    "value": 1000,
     "imageFilename": "https://cdn.arctracker.io/items/antiseptic.png"
   },
   {
@@ -418,8 +416,8 @@
     "description": "Valuable resource that drops from all ARC enemies. Can be used to repair shields.",
     "type": "Topside Material",
     "rarity": "Common",
-    "weightKg": 2.5,
-    "value": 3200,
+    "weightKg": 0.5,
+    "value": 640,
     "rechargePerSec": 2,
     "durationSec": 10,
     "useTimeSec": 3
@@ -463,8 +461,8 @@
     "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "weightKg": 1.0,
-    "value": 1200
+    "weightKg": 0.25,
+    "value": 300
   },
   {
     "id": "flute",
@@ -590,8 +588,8 @@
     "description": "Used to craft a wide range of items. Can be recycled into plastic.",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "weightKg": 0.5,
-    "value": 600,
+    "weightKg": 0.25,
+    "value": 300,
     "imageFilename": "https://cdn.arctracker.io/items/canister.png"
   },
   {
@@ -869,8 +867,8 @@
     "description": "Used to craft a wide range of items. Can be recycled into scrap metal.",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "weightKg": 1.0,
-    "value": 1000
+    "weightKg": 0.25,
+    "value": 250
   },
   {
     "id": "industrial_battery",
@@ -892,8 +890,6 @@
     "description": "Can be recycled into crafting materials.",
     "type": "Recyclable",
     "rarity": "Rare",
-    "weightKg": 2.0,
-    "value": 1000,
     "imageFilename": "https://cdn.arctracker.io/items/power_cable.png"
   },
   {
@@ -915,6 +911,7 @@
     "name": "Deflated Football",
     "description": "A football that has seen better days.",
     "type": "Valuable",
+    "weightKg": 0.8,
     "value": 1000
   },
   {
@@ -1296,42 +1293,32 @@
     "name": "Alarm Clock",
     "description": "Can be recycled into crafting materials.",
     "type": "Recyclable",
-    "rarity":"Rare",
-    "weightKg": 4.0,
-    "value": 2000
+    "rarity":"Rare"
   },
   {
     "id": "broken_flashlight",
     "name": "Broken Flashlight",
     "type": "Recyclable",
-    "rarity": "Rare",
-    "weightKg": 4.0,
-    "value": 2000
+    "rarity": "Rare"
   },
   {
     "id": "frying_pan",
     "name": "Frying Pan",
     "type": "Recyclable",
-    "rarity": "Rare",
-    "weightKg": 2.0,
-    "value": 640
+    "rarity": "Rare"
   },
   {
     "id": "headphones",
     "name": "Headphones",
     "type": "Recyclable",
-    "rarity":"Rare",
-    "weightKg": 2.0,
-    "value": 1000
+    "rarity":"Rare"
   },
   {
    "id": "humidifier",
    "name": "Humidifier",
    "description": "Can be recycled into crafting materials.",
    "type": "Recyclable",
-   "rarity": "Rare",
-   "weightKg": 2.0,
-   "value": 1000 
+   "rarity": "Rare"
   },
   {
     "id": "processor",
@@ -1339,8 +1326,8 @@
     "description": "Used in crafting.",
     "type": "Topside Material",
     "rarity": "Rare",
-    "weightKg": 0.4,
-    "value": 1000 
+    "weightKg": 0.2,
+    "value": 500 
   },
   {
     "id": "speaker_component",
@@ -1357,8 +1344,8 @@
     "description": "Used to craft medical supplies.",
     "type": "Refined Material",
     "rarity": "Uncommon",
-    "weightKg": 0.5,
-    "value": 1280
+    "weightKg": 0.25,
+    "value": 640
   },
   {
     "id": "ice_cream_scooper",
@@ -1375,7 +1362,7 @@
     "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "weightKg": 0.75,
-    "value": 900
+    "weightKg": 0.25,
+    "value": 300
   }
 ]
