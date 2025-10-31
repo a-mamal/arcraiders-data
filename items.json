@@ -49,6 +49,14 @@
     "value": 1000
   },
   {
+    "id": "volcanic_rock",
+    "name": "Volcanic Rock",
+    "type": "Misc",
+    "rarity": "Common",
+    "weightKg": 0.5,
+    "value": 270
+  },
+  {
     "id": "lemon",
     "name": "Lemon",
     "description": "A sour citrus fruit.",
