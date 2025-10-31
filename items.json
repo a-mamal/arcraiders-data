@@ -216,6 +216,17 @@
     "imageFilename": "https://cdn.arctracker.io/items/antiseptic.png"
   },
   {
+    "id": "crude_explosives",
+    "name": "Crude Explosives",
+    "description": "Used to craft explosives. Can be recycled into crafting materials. Can be thrown to create a loud noise.",
+    "type": "Refined Material",
+    "rarity": "Uncommon",
+    "weightKg": 0.5,
+    "value": 270,
+    "damage": 15,
+    "radiusM": 1.5
+  },
+  {
     "id": "snitch_scanner",
     "name": "Snitch Scanner",
     "description": "A handheld scanner for detecting hidden transmitters.",
