@@ -353,8 +353,11 @@
   {
     "id": "sterilized_bandage",
     "name": "Sterilized Bandage",
-    "description": "A sterile bandage for treating wounds.",
-    "type": "Consumable",
+    "description": "A medical item that gradually restores a large amount of health over time.",
+    "type": "Quick Use",
+    "rarity": "Rare",
+    "weightKg": 0.2,
+    "value": 2000,
     "imageFilename": "https://cdn.arctracker.io/items/sterilized_bandage.png"
   },
   {
