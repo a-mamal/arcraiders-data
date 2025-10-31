@@ -1394,5 +1394,13 @@
     "rarity": "Uncommon",
     "weightKg": 0.25,
     "value": 300
+  },
+  {
+    "id": "assorted_seeds",
+    "name": "Assorted Seeds",
+    "type": "Nature",
+    "rarity": "Common",
+    "weightKg": 0.05,
+    "value": 100
   }
 ]
