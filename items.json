@@ -1333,6 +1333,15 @@
     "health": 500
   },
   {
+    "id": "door_blocker",
+    "name": "Door Blocker",
+    "description": "A locking mechanism that can be placed on large metal doors to limit access.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "weightKg": 0.2,
+    "value": 270
+  },
+  {
     "id": "defibrillator",
     "name": "Defibrillator",
     "description": "A device to revive incapacitated individuals.",
