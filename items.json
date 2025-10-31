@@ -144,8 +144,13 @@
   {
     "id": "wasp_driver",
     "name": "Wasp Driver",
-    "description": "A control module used to operate Wasp drones or vehicles.",
-    "type": "Material",
+    "description": "Can be recycled into ARC Alloy. Can be thrown, and will explode if shot.",
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "weightKg": 1.2,
+    "value": 2000,
+    "damage": 80,
+    "radiusM": 5,
     "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png"
   },
   {
