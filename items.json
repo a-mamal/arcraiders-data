@@ -345,6 +345,18 @@
     "compatibleWith": ["Arpeggio"]
   },
   {
+    "id": "bandage",
+    "name": "Bandage",
+    "description": "A medical item that gradually restores health over time.",
+    "type": "Quick Use",
+    "rarity": "Common",
+    "weightKg": 0.1,
+    "value": 250,
+    "healingPerSec": 2,
+    "durationSec": 10,
+    "useTimeSec": 1.5
+  },
+  {
     "id": "herbal_bandages",
     "name": "Herbal Bandages",
     "description": "Bandages infused with healing herbs.",
