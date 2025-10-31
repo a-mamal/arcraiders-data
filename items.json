@@ -1124,6 +1124,15 @@
     "imageFilename": "https://cdn.arctracker.io/items/raider_hatch_key.png"
   },
   {
+    "id": "blue_gate_village_key",
+    "name": "Blue Gate Village Key",
+    "description": "Unlocks a door to one of the old Village buildings near the Blue Gate.",
+    "type": "Key",
+    "rarity": "Uncommon",
+    "weightKg": 0.25,
+    "value": 100
+  },
+  {
     "id": "medium_shield",
     "name": "Medium Shield",
     "type": "Shield",
