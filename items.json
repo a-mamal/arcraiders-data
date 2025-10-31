@@ -40,6 +40,15 @@
     "rarity": "Rare"
   },
   {
+    "id": "torn_book",
+    "name": "Torn Book",
+    "description": "What pages remain speak of chosen heroes, vampires, and lots of longing glances.",
+    "type": "Trinket",
+    "rarity": "Common",
+    "weightKg": 0.3,
+    "value": 1000
+  },
+  {
     "id": "lemon",
     "name": "Lemon",
     "description": "A sour citrus fruit.",
