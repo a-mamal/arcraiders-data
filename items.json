@@ -360,8 +360,11 @@
   {
     "id": "lure_grenade",
     "name": "Lure Grenade",
-    "description": "A grenade that attracts attention.",
-    "type": "Gear"
+    "description": "A noisy device that sticks to surfaces, distracting nearby ARC machines and drawing their fire.",
+    "type": "Quick Use",
+    "rarity": "Uncommon",
+    "weightKg": 0.4,
+    "value": 1000
   },
   {
     "id": "jump_mines",
