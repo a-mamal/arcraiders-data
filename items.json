@@ -71,8 +71,11 @@
   {
     "id": "plastic_parts",
     "name": "Plastic Parts",
-    "description": "Scrap plastic pieces for crafting.",
-    "type": "Material",
+    "description": "Used to craft a wide range of items.",
+    "type": "Basic Material",
+    "rarity": "Common",
+    "weightKg": 0.1,
+    "value": 60,
     "imageFilename": "https://cdn.arctracker.io/items/plastic_parts.png"
   },
   {
