@@ -814,6 +814,15 @@
     "imageFilename": "https://cdn.arctracker.io/items/power_rod.png"
   },
   {
+    "id": "battery",
+    "name": "Battery",
+    "description": "Used to craft a wide range of items. Can be recycled into scrap metal.",
+    "type": "Topside Material",
+    "rarity": "Uncommon",
+    "weightKg": 1.0,
+    "value": 1000
+  },
+  {
     "id": "industrial_battery",
     "name": "Industrial Battery",
     "description": "A large, high-capacity battery for industrial equipment.",
