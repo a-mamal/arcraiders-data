@@ -1187,6 +1187,17 @@
     "type": "Gear"
   },
   {
+    "id": "snap_blast_grenade",
+    "name": "Snap Blast Grenade",
+    "description": "A grenade that sticks to surfaces, dealing explosive damage after a short delay.",
+    "type":"Quick Use",
+    "rarity": "Uncommon",
+    "weightKg": 0.2,
+    "value": 800,
+    "damage": 70,
+    "radiusM": 7.5
+  },
+  {
     "id": "heavy_fuse_grenade",
     "name": "Heavy Fuse Grenade",
     "description": "A grenade that detonates after a delay, dealing explosive damage in its radius.",
