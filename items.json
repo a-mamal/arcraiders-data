@@ -55,10 +55,10 @@
     "id": "metal_parts",
     "name": "Metal Parts",
     "description": "Used to craft a wide range of items.",
-    "type": "Material",
+    "type": "Basic Material",
     "rarity": "Common",
     "value": 75,
-    "weightKg": 0.15,
+    "weightKg": 0.1,
     "imageFilename": "https://cdn.arctracker.io/items/metal_parts.png"
   },
   {
